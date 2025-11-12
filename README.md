@@ -18,8 +18,8 @@
 
 * DataFrames, Series, and multi-indexing
 
-* Handling missing values and data preprocessing
+* Data preprocessing
 
 * Statistical summaries and correlations
 
-* Custom plotting (line, bar, histogram, scatter, etc.)
+* Custom plotting (line, bar, histogram, etc.)
